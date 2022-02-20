@@ -1,0 +1,16 @@
+Define System Log [2020-01-04 14:46:28] : testDefine System Log [2020-01-04 14:51:02] : Array
+(
+    [aaa] => Array
+        (
+            [yyy] => hhh
+        )
+
+)
+Define System Log [2020-01-04 14:53:48] : Array
+(
+    [aaa] => Array
+        (
+            [yyy] => hhh
+        )
+
+)

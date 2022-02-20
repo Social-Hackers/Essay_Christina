@@ -1,0 +1,11 @@
+.art_inner_main .inner_cmt form h3{
+	display:inline-block;
+	width: 110px;
+}
+.art_inner_main .inner_cmt form p{
+	display:inline-block;
+	width: 200px;
+}
+.art_inner_main .inner_cmt form p input:not(input[type="submit"]){
+	width: 450px;
+}

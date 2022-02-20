@@ -1,0 +1,21 @@
+.art_inner_main .inner_cmt form h3{
+	display:inline-block;
+	width: 150px;
+}
+.art_inner_main .inner_cmt form p{
+	display:inline-block;
+	width: 200px;
+}
+.art_inner_main .inner_cmt form p textarea{
+	display:inline-block;
+	width: 450px;
+	height: 200px;
+}
+.art_inner_main .inner_cmt form p input:not(input[type="submit"]){
+	width: 420px;
+}
+.art_inner_main .inner_cmt form p input[type="submit"]{
+	display:inline-block;
+	margin-left: 150px;
+	width: 420px
+}
