@@ -104,6 +104,9 @@ ul li ul li{
 .art_inner_main{
 	margin-bottom: 24px;
 }
+.art_inner_main li {
+	margin-bottom: 8px;
+}
 .inner_cmt{
 	padding: 2px 8px;
 	line-height: 1.2;
