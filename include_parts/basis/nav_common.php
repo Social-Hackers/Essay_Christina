@@ -6,7 +6,7 @@
 		<ul>
 			<li><a href="index.html">序章</a></li>
 			<li><a href="christina.html">クリスティーナ</a></li>
-			<li><a>闇の救いびと</a></li>
+			<li><a href="messiah_of_darkness.html">闇の救いびと</a></li>
 			<li><a href="Death_of_two.html">ふたりの死神</a></li>
 			<li><a href="the_god_and_the_criminal.html">神と原罪者</a></li>
 			<li><a>めざめの始まり</a></li>
