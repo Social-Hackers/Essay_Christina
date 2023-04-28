@@ -14,4 +14,4 @@ $system->setConfigsDirectory($dir.'/defines_application/configs');
 $system->load();
 $system->release();
 
-DefineSystem\Log::info($system->msg(), 'system_msg_dairy');
+DefineSystem\Log::info($system->msg(), 'essay');
